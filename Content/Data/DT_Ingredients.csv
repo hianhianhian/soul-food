@@ -1,33 +1,33 @@
----,Text
-doggoIngredients1:1,Chicken Flavoured Dog Food
-doggoIngredients1:2,Salmon Flavoured Dog Food
-doggoIngredients1:3,Beef Flavoured Dog Food
-doggoIngredients1:4,Yummy Flavoured Dog Food
-doggoIngredients2:1,Click to test
-doggoIngredients2:2,This is a test
-doggoIngredients2:3,I repeat this is a drill
-doggoIngredients2:4,This is also a test
-doggoIngredients3:1,woof
-doggoIngredients3:2,woof woof
-doggoIngredients3:3,WOOF
-doggoIngredients3:4,woof!
-doggoIngredients4:1,scritch back
-doggoIngredients4:2,scritch head
-doggoIngredients4:3,scritch belly
-doggoIngredients4:4,scritch behind ears
-testIngredients1:1,Bread
-testIngredients1:2,Butter
-testIngredients1:3,Special Cheese Combo Mix™
-testIngredients1:4,Sundried Tomatoes
-testIngredients2:1,Macaroni
-testIngredients2:2,Cheddar Cheese
-testIngredients2:3,Gruyere Cheese
-testIngredients2:4,Red Leicester Cheese
-testIngredients3:1,Conchiglie Pasta
-testIngredients3:2,Tenderly-simmered Chicken Broth
-testIngredients3:3,Fresh Dill
-testIngredients3:4,Chicken Bits
-testIngredients4:1,Scoop of Ice Cream
-testIngredients4:2,Chocolate Sprinkles
-testIngredients4:3,Whipped Cream
-testIngredients4:4,Strawberries
+---,Text,MinNumber,MaxNumber,IngredientIcon
+doggoIngredients1:1,Chicken Flavoured Dog Food,2,5,Texture2D'/Game/Assets/DogFoodChicken'
+doggoIngredients1:2,Salmon Flavoured Dog Food,3,5,Texture2D'/Game/Assets/DogFoodSalmon'
+doggoIngredients1:3,Beef Flavoured Dog Food,2,3,Texture2D'/Game/Assets/DogFoodBeef'
+doggoIngredients1:4,Yummy Flavoured Dog Food,4,4,Texture2D'/Game/Assets/DogFoodYummy'
+doggoIngredients2:1,Click to test,,,
+doggoIngredients2:2,This is a test,,,
+doggoIngredients2:3,I repeat this is a drill,,,
+doggoIngredients2:4,This is also a test,,,
+doggoIngredients3:1,woof,,,
+doggoIngredients3:2,woof woof,,,
+doggoIngredients3:3,WOOF,,,
+doggoIngredients3:4,woof!,,,
+doggoIngredients4:1,scritch back,,,
+doggoIngredients4:2,scritch head,,,
+doggoIngredients4:3,scritch belly,,,
+doggoIngredients4:4,scritch behind ears,,,
+testIngredients1:1,Bread,,,
+testIngredients1:2,Butter,,,
+testIngredients1:3,Special Cheese Combo Mix™,,,
+testIngredients1:4,Sundried Tomatoes,,,
+testIngredients2:1,Macaroni,,,
+testIngredients2:2,Cheddar Cheese,,,
+testIngredients2:3,Gruyere Cheese,,,
+testIngredients2:4,Red Leicester Cheese,,,
+testIngredients3:1,Conchiglie Pasta,,,
+testIngredients3:2,Tenderly-simmered Chicken Broth,,,
+testIngredients3:3,Fresh Dill,,,
+testIngredients3:4,Chicken Bits,,,
+testIngredients4:1,Scoop of Ice Cream,,,
+testIngredients4:2,Chocolate Sprinkles,,,
+testIngredients4:3,Whipped Cream,,,
+testIngredients4:4,Strawberries,,,

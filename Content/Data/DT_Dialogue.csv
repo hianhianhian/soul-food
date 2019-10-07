@@ -1,0 +1,8 @@
+---,IngredientID,Text,isFinalBranch,NextDialogueBranch,RequiredNumber
+doggoBranch1,doggoIngredients1:1,CHIKEN IS GRATE,FALSE,doggoBranch2,1
+doggoBranch2,doggoIngredients1:1,I LOVE CHICKKEN SO MUCH,TRUE,None,1
+doggoBranch3,doggoIngredients1:1,TWO CHICKEN IS V GOOD,TRUE,None,2
+doggoBranch4,doggoIngredients1:1,OH WOW I WOS HAPPY AT 2 but 3 IS MORE GOODS,TRUE,None,3
+doggoBranch5,doggoIngredients1:1,I LOVE CHICKEN 4EVA,TRUE,None,4
+doggoBranch6,doggoIngredients1:1,CHICKEN IS BEST 5EVA,FALSE,doggoBranch7,5
+doggoBranch7,doggoIngredients1:1,WOWEE I CAN ET CHIKEN ALL DAYS,TRUE,None,5
