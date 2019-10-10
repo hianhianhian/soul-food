@@ -1,9 +1,9 @@
----,CharacterID,Text,IngredientsBranch
-doggoMenu1,Doggo,Doggo Food,doggoIngredients1
-doggoMenu2,Doggo,Test,doggoIngredients2
-doggoMenu3,Doggo,Woof woof,doggoIngredients3
-doggoMenu4,Doggo,Scritches pls,doggoIngredients4
-testMenu1,TestCharacter,Grilled Cheese Sandwich,testIngredients1
-testMenu2,TestCharacter,Mac n Cheese,testIngredients2
-testMenu3,TestCharacter,Mom's Chicken Noodle Soup,testIngredients3
-testMenu4,TestCharacter,B&J's Chocolate Chip Cookie Dough Chunks,testIngredients4
+---,CharacterID,Text,IngredientsBranch,DishIcon
+doggoMenu1,Doggo,Doggo Food,doggoIngredients1,Texture2D'/Game/Assets/DogFoodFinal'
+doggoMenu2,Doggo,Test,doggoIngredients2,
+doggoMenu3,Doggo,Woof woof,doggoIngredients3,
+doggoMenu4,Doggo,Scritches pls,doggoIngredients4,
+testMenu1,TestCharacter,Grilled Cheese Sandwich,testIngredients1,
+testMenu2,TestCharacter,Mac n Cheese,testIngredients2,
+testMenu3,TestCharacter,Mom's Chicken Noodle Soup,testIngredients3,
+testMenu4,TestCharacter,B&J's Chocolate Chip Cookie Dough Chunks,testIngredients4,
