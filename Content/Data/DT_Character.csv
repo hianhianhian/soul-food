@@ -1,3 +1,5 @@
 ---,CharacterThumbnail,DisplayName
+Adam,Texture2D'/Game/Assets/Characters/adam',Adam
+X,Texture2D'/Game/Assets/Characters/x',X
 Doggo,Texture2D'/Game/Assets/shiba',Doggo
-TestCharacter,Texture2D'/Game/Assets/ghost',TestCharacter
+Ian,Texture2D'/Game/Assets/Characters/ian',Ian
