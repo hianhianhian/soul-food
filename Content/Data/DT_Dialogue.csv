@@ -47,49 +47,85 @@ adamBranch23,adamIngredients1:4,Back in school we used to get made fun of for pl
 adamBranch24,adamIngredients1:4,And then I signed up for the army.,TRUE,None,4
 adamBranch25,adamIngredients1:5,Nothing really beats a good ol’ grilled cheese sandwich on rainy days. Days when you want to curl up in bed and forget all the shit you feel.,FALSE,adamBranch26,1
 adamBranch26,adamIngredients1:5,Things used to be so simple when I was a kid. When mom was alive. I miss her.,FALSE,adamBranch27,1
-adamBranch27,adamIngredients1:5,"This sandwich really takes me back to those simpler times.. That’s comfort food, right?",TRUE,None,1
-adamBranch28,,,,,
-adamBranch29,,,,,
-adamBranch30,,,,,
-adamBranch31,,,,,
-adamBranch32,,,,,
-adamBranch33,,,,,
-adamBranch34,,,,,
-adamBranch35,,,,,
-adamBranch36,,,,,
-adamBranch37,,,,,
-adamBranch38,,,,,
-adamBranch39,,,,,
-adamBranch40,,,,,
-adamBranch41,,,,,
-adamBranch42,,,,,
-adamBranch43,,,,,
-adamBranch44,,,,,
-adamBranch45,,,,,
-adamBranch46,,,,,
-adamBranch47,,,,,
-adamBranch48,,,,,
-adamBranch49,,,,,
-adamBranch50,,,,,
-adamBranch51,,,,,
-adamBranch52,,,,,
-adamBranch53,,,,,
-adamBranch54,,,,,
-adamBranch55,,,,,
-adamBranch56,,,,,
-adamBranch57,,,,,
-adamBranch58,,,,,
-adamBranch59,,,,,
-adamBranch60,,,,,
-adamBranch61,,,,,
-adamBranch62,,,,,
-adamBranch63,,,,,
-adamBranch64,,,,,
-adamBranch65,,,,,
-adamBranch66,,,,,
-adamBranch67,,,,,
-adamBranch68,,,,,
-adamBranch69,,,,,
+adamBranch27,adamIngredients1:5,"This grilled cheese really takes me back to those simpler times.. That’s comfort food, right?",TRUE,None,1
+adamBranch28,adamIngredients2:1,I always thought that all macaroni was elbow-shaped.,FALSE,adamBranch29,1
+adamBranch29,adamIngredients2:1,I actually had an argument with a friend about it and it blew my mind that other shapes of macaroni exist.,TRUE,None,1
+adamBranch30,adamIngredients2:1,You can’t make mac and cheese without elbow macaroni though. You just can’t. It wouldn’t be mac and cheese. Not to me at least.,TRUE,None,2
+adamBranch31,adamIngredients2:1,Mom would always let me be the one to test if the macaroni was perfectly cooked. It needs to be just a little undercooked with quite a chew to it,FALSE,adamBranch32,3
+adamBranch32,adamIngredients2:1,"When the whole dish gets baked in the oven, the mac turns out perfect every time.",TRUE,None,3
+adamBranch33,adamIngredients2:2,We always had to worry about money so we never used any of the fancy expensive cheese you’d see at the grocery store.,FALSE,adamBranch34,1
+adamBranch34,adamIngredients2:2,Shredded cheddar cheese was relatively cheap and still tasted great.,TRUE,None,1
+adamBranch35,adamIngredients2:2,Mom’s special technique was to cook the macaroni in the milk instead of in a separate bot of boiling water. It saves me from having to wash an extra pot!,FALSE,adamBranch36,2
+adamBranch36,adamIngredients2:2,She’d add half the bag of cheese once the mac was ready and it would instantly become super creamy and delicious.,TRUE,None,2
+adamBranch37,adamIngredients2:2,"You had to eat it right away, or it would turn lumpy and sticky. I never had a problem finishing my bowl right away though.",TRUE,None,3
+adamBranch38,adamIngredients2:3,"Sometimes when mom was having a good week, she would fry up some bacon bits on the side while the mac was cooking.",FALSE,adamBranch39,1
+adamBranch39,adamIngredients2:3,She’d mix the crisp bacon into the mac and cheese. Those were good days.,TRUE,None,1
+adamBranch40,adamIngredients2:3,"We’d get all cozy on the couch and watch TV, bowls of warm, comforting pasta in hand.",FALSE,adamBranch41,2
+adamBranch41,adamIngredients2:3,Bonus points if it was a rainy day.,TRUE,None,2
+adamBranch42,adamIngredients2:3,Thanks for adding bacon bits here. It feels like a special day.,TRUE,None,3
+adamBranch43,adamIngredients2:4,Breadcrumbs are what you put on top of mac and cheese when you can’t afford parmesan cheese but still want that crispy layer over it.,TRUE,None,1
+adamBranch44,adamIngredients2:4,It’s such a simple addition but it really does make it feel special. Mom would always make her own breadcrumbs with whatever stale bread we had in the house.,FALSE,adamBranch45,2
+adamBranch45,adamIngredients2:4,(It was almost always Wonder Bread. I just really like Wonder Bread okay?),TRUE,None,2
+adamBranch46,adamIngredients2:4,"If we were in a rush, mom would just sprinkle breadcrumbs over the mac and cheese without baking it. It would still turn out great, just not as crunchy.",TRUE,None,3
+adamBranch47,adamIngredients2:5,"As much as I hated being in the army, the best meal I ever had during my time in basic training was the chili and mac, MRE Menu #10.",FALSE,adamBranch48,1
+adamBranch48,adamIngredients2:5,It was the closest thing to the mac and cheese that we used to have at home.,FALSE,adamBranch49,1
+adamBranch49,adamIngredients2:5,"Rip up some of the beef jerky and mix it through the chilli mac, and you could almost imagine you were having bacon bits.",FALSE,adamBranch50,1
+adamBranch50,adamIngredients2:5,Sometimes I would even trade the coveted jalapeno cheese spread along with a cherry blueberry cobbler just to get my hands on the chilli and mac.,FALSE,adamBranch51,1
+adamBranch51,adamIngredients2:5,"Cheese is a precious commodity in the field, but a taste of home is worth so much more.",TRUE,None,1
+adamBranch52,adamIngredients3:1,There’s something special about conchiglie. The seashells just scoop up the perfect amount of soup.,TRUE,None,1
+adamBranch53,adamIngredients3:1,"Sometimes you get little bits of chicken inside the shell too, they’re like budget clams except you can eat the shells too.",TRUE,None,2
+adamBranch54,adamIngredients3:1,Mom would exclusively make her chicken noodle soup with seashells.,FALSE,adamBranch55,3
+adamBranch55,adamIngredients3:1,She used to call them chickie shellies.,TRUE,None,3
+adamBranch56,adamIngredients3:1,Ever since she died.. I just call them conchiglie now.,TRUE,None,4
+adamBranch57,adamIngredients3:2,I know it’s a super obvious thing to say but you can’t make chicken noodle soup without a hearty chicken broth to build on.,TRUE,None,1
+adamBranch58,adamIngredients3:2,"The only secret to a good chicken broth is just a lot of TLC. That stands for tender, loving care. ",TRUE,None,2
+adamBranch59,adamIngredients3:2,Time and a lot of love. My dad could never make a decent chicken broth.,FALSE,adamBranch60,3
+adamBranch60,adamIngredients3:2,Not that he was ever there to make one.,TRUE,None,3
+adamBranch61,adamIngredients3:2,He didn’t even have the balls to come to her funeral.,TRUE,None,4
+adamBranch62,adamIngredients3:3,You’re nice. I’m gonna let you in on a family trade secret: my mom’s secret ingredient in her chicken noodle soup is fresh dill.,TRUE,None,1
+adamBranch63,adamIngredients3:3,"I wouldn’t say dill is an absolute necessity when making this dish, but man, it just adds that little sum’n sum’n.",TRUE,None,2
+adamBranch64,adamIngredients3:3,You know what definitely spoils a chicken noodle soup though? Cilantro. Absolutely hate it.,TRUE,None,3
+adamBranch65,adamIngredients3:3,One of my strongest memories as a child was throwing out a whole bowl of salad because dad scattered some cilantro on it.,FALSE,adamBranch66,4
+adamBranch66,adamIngredients3:3,I don’t remember much else about him.,TRUE,None,4
+adamBranch67,adamIngredients3:3,Mom never put cilantro in her chicken noodle soup.,TRUE,None,5
+adamBranch68,adamIngredients3:4,I’m so glad these chicken bits aren’t chicken breast.,TRUE,None,1
+adamBranch69,adamIngredients3:4,"It’s not that I hate chicken breast, it just always turns out dry and sandy, like eating the dirt when you’re crouching for cover in a trench.",TRUE,None,2
+adamBranch70,adamIngredients3:4,This chicken is really well done. You could probably get away with serving up chicken breast and it’d still taste great.,TRUE,None,3
+adamBranch71,adamIngredients3:5,"Every other chicken noodle soup sucks but yours is alright, mom’s is still the best tho.",FALSE,adamBranch72,1
+adamBranch72,adamIngredients3:5,I miss her so much. I should have been there for her.,FALSE,adamBranch73,1
+adamBranch73,adamIngredients3:5,Thank you for this. This is the closest chicken noodle soup to what she used to make for me.,TRUE,None,1
+adamBranch74,adamIngredients4:1,"Every Christmas, mom would let me have a whole tub of B&J’s chocolate chip cookie dough chunks as a special treat just for me.",FALSE,adamBranch75,1
+adamBranch75,adamIngredients4:1,She would only ever buy them when they went on sale because it would be too expensive for us otherwise.,TRUE,None,1
+adamBranch76,adamIngredients4:1,"When I got older, I limited myself to just three scoops whenever I had a craving for ice cream.",FALSE,adamBranch77,2
+adamBranch77,adamIngredients4:1,It just wasn’t healthy and I didn’t think it was necessary to spend too much on desserts.,TRUE,None,2
+adamBranch78,adamIngredients4:1,Mom would still insist on having me take an extra scoop. I’d always give her the extra scoop.,TRUE,None,3
+adamBranch79,adamIngredients4:1,"Last Christmas I had the entire tub to myself for the first time in a long time. I set aside a scoop for mom though, for old times’ sake.",FALSE,adamBranch80,4
+adamBranch80,adamIngredients4:1,How do you give presents to those who aren’t present with us anymore?,TRUE,None,4
+adamBranch81,adamIngredients4:2,"I know chocolate sauce is really kiddish, but I just really enjoy seeing chocolate streaks all across the surface of my ice cream.",TRUE,None,1
+adamBranch82,adamIngredients4:2,"When I was younger, mom would pretend to be an artist and splatter the chocolate sauce all over the ice cream.",FALSE,adamBranch83,2
+adamBranch83,adamIngredients4:2,"It would get everywhere, all over the counter top, on my hair, on her clothes, just a complete mess. A fun mess, though.",TRUE,None,2
+adamBranch84,adamIngredients4:2,She used to tell me she had always wanted to be an artist. She even went to art school for awhile.,FALSE,adamBranch85,3
+adamBranch85,adamIngredients4:2,"She never told me if she finished school. “Throwing paint on a canvas doesn’t pay the bills”, is what she always said.",TRUE,None,3
+adamBranch86,adamIngredients4:3,Isn’t it funny that whipped cream comes in a can instead of having to be whipped?,FALSE,adamBranch87,1
+adamBranch87,adamIngredients4:3, I’d always thought that Reddi-Wip was the only way that whipped cream was made until mom made whipped cream from scratch one time.,TRUE,None,1
+adamBranch88,adamIngredients4:3,"She was making a pumpkin pie for Halloween one year, and the whipped cream that mom and I worked so hard on was soooo much fluffier than the canned whipped cream. ",FALSE,adamBranch89,2
+adamBranch89,adamIngredients4:3,It felt like we’d spent the entire day just whisking cream.,TRUE,None,2
+adamBranch90,adamIngredients4:3,I would rather buy a can of whipped cream nowadays instead of working it by hand.,FALSE,adamBranch91,3
+adamBranch91,adamIngredients4:3,It’s just so much extra effort when I can just press a button and instantly have whipped cream in my mouth.,TRUE,None,3
+adamBranch92,adamIngredients4:4,"Everyone’s got their favorite dessert fruit. You can have your mangos, your bananas and your blueberries, but strawberries are mine.",FALSE,adamBranch93,1
+adamBranch93,adamIngredients4:4,I’ve just always loved strawberries. I don’t ever remember a time I didn’t like them. ,TRUE,None,2
+adamBranch94,adamIngredients4:4,"Even the ones that are a little unripe - tart and not very sweet, are perfectly acceptable to me. ",FALSE,adamBranch95,3
+adamBranch95,adamIngredients4:4,I guess I’m just naturally inclined towards the taste of strawberries.,TRUE,None,3
+adamBranch96,adamIngredients4:5,"The day that mom died, I was six weeks into basic training. My aunt was the one who contacted the Red Cross.",FALSE,adamBranch97,1
+adamBranch97,adamIngredients4:5,The commander pulled me aside during morning drill training and broke the news to me. I was on the next flight home on emergency leave.,FALSE,adamBranch98,1
+adamBranch98,adamIngredients4:5,"The rest of that day was a blur. I remember eating a whole tub of ice cream on the couch, the same couch that mom used to fall asleep on while watching TV.",FALSE,adamBranch99,1
+adamBranch99,adamIngredients4:5,"That overwhelming emptiness never left. In some ways, I still feel like I haven’t left that couch.",FALSE,adamBranch100,1
+adamBranch100,adamIngredients4:5,I tried to continue basic training because it seemed like the right thing to do but.. I just couldn’t no matter how hard I pushed myself. My heart just wasn’t in it anymore.,FALSE,adamBranch101,1
+adamBranch101,adamIngredients4:5,Two weeks after the funeral I was given an ELS discharge from command. I was deeply depressed.,FALSE,adamBranch102,1
+adamBranch102,adamIngredients4:5,My commanding officer told me that no hard feelings were had and wished me luck. He was nice.,TRUE,None,1
+adamBranch103,adamIngredientsFinal,I really do appreciate the meal. This has been very comforting but I get the feeling I won’t see you ever again. Or maybe I will. Who’s to say?,FALSE,adamBranch104,1
+adamBranch104,adamIngredientsFinal,"This has all felt like a dream, and I’m slowly but surely waking up now.",FALSE,adamBranch105,1
+adamBranch105,adamIngredientsFinal,"Maybe one day when I feel better I can return the favor to you. Semper fi, friend.",TRUE,None,1
 ,,,,,
 ,,,,,
 ,,,,,
@@ -282,41 +318,5 @@ adamBranch69,,,,,
 ,,,,,
 ,,,,,
 ,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
+,,,,undefined,
 undefined,None,Error 42069: Dialogue not found sorry pls blame the dev he dumb,TRUE,None,0
