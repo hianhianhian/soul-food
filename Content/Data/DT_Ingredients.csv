@@ -15,17 +15,17 @@ doggoIngredients4:1,scritch back,,,
 doggoIngredients4:2,scritch head,,,
 doggoIngredients4:3,scritch belly,,,
 doggoIngredients4:4,scritch behind ears,,,
-tutorialIngredients1:1,A Literal Pile of Breadsticks,,,
-tutorialIngredients1:5,Served,,,
-tutorialIngredients2:1,Bread,,,
-tutorialIngredients2:2,Butter,,,
-tutorialIngredients2:5,Served,,,
-tutorialIngredients3:1,Egg,,,
-tutorialIngredients3:2,Salt and Pepper,,,
-tutorialIngredients3:5,Served,,,
-tutorialIngredients4:1,A Literal Block of Chocolate,,,
-tutorialIngredients4:5,Served,,,
-tutorialFinal,Final,,,
+tutorialIngredients1:1,A Literal Pile of Breadsticks,3,3,PaperSprite'/Game/Assets/Ingredients/tutorialIngredients_1_1'
+tutorialIngredients1:5,Served,0,1,
+tutorialIngredients2:1,Bread,2,2,PaperSprite'/Game/Assets/Ingredients/tutorialIngredients_2_1'
+tutorialIngredients2:2,Butter,2,2,PaperSprite'/Game/Assets/Ingredients/tutorialIngredients_2_2'
+tutorialIngredients2:5,Served,0,1,
+tutorialIngredients3:1,Egg,2,2,PaperSprite'/Game/Assets/Ingredients/tutorialIngredients_3_1'
+tutorialIngredients3:2,Salt and Pepper,2,2,PaperSprite'/Game/Assets/Ingredients/tutorialIngredients_3_2'
+tutorialIngredients3:5,Served,0,1,
+tutorialIngredients4:1,A Literal Block of Chocolate,2,2,PaperSprite'/Game/Assets/Ingredients/tutorialIngredients_4_1'
+tutorialIngredients4:5,Served,0,1,
+tutorialIngredientsFinal,Final,0,1,
 adamIngredients1:1,Bread,3,4,PaperSprite'/Game/Assets/Ingredients/adamIngredients_1_1'
 adamIngredients1:2,Mayonnaise,2,3,PaperSprite'/Game/Assets/Ingredients/adamIngredients_1_2'
 adamIngredients1:3,Special Cheese Combo Mix™,2,3,PaperSprite'/Game/Assets/Ingredients/adamIngredients_1_3'

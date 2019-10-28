@@ -1,8 +1,8 @@
 ---,CharacterID,Text,IngredientsBranch,DishIcon
-tutorialMenu1,Tutorial,Breadsticks,tutorialIngredients1,
-tutorialMenu2,Tutorial,Toast,tutorialIngredients2,
-tutorialMenu3,Tutorial,Fried Egg,tutorialIngredients3,
-tutorialMenu4,Tutorial,Chocolate,tutorialIngredients4,
+tutorialMenu1,Tutorial,Breadsticks,tutorialIngredients1,Texture2D'/Game/Assets/Menus/tutorialMenu1'
+tutorialMenu2,Tutorial,Toast,tutorialIngredients2,Texture2D'/Game/Assets/Menus/tutorialMenu2'
+tutorialMenu3,Tutorial,Fried Egg,tutorialIngredients3,Texture2D'/Game/Assets/Menus/tutorialMenu3'
+tutorialMenu4,Tutorial,Chocolate,tutorialIngredients4,Texture2D'/Game/Assets/Menus/tutorialMenu4'
 doggoMenu1,Doggo,Doggo Food,doggoIngredients1,Texture2D'/Game/Assets/DogFoodFinal'
 doggoMenu2,Doggo,Test,doggoIngredients2,
 doggoMenu3,Doggo,Woof woof,doggoIngredients3,
