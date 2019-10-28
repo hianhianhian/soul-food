@@ -15,41 +15,36 @@ doggoIngredients4:1,scritch back,,,
 doggoIngredients4:2,scritch head,,,
 doggoIngredients4:3,scritch belly,,,
 doggoIngredients4:4,scritch behind ears,,,
-testIngredients1:1,Bread,,,
-testIngredients1:2,Butter,,,
-testIngredients1:3,Special Cheese Combo Mix™,,,
-testIngredients1:4,Sundried Tomatoes,,,
-testIngredients2:1,Macaroni,,,
-testIngredients2:2,Cheddar Cheese,,,
-testIngredients2:3,Gruyere Cheese,,,
-testIngredients2:4,Red Leicester Cheese,,,
-testIngredients3:1,Conchiglie Pasta,,,
-testIngredients3:2,Tenderly-simmered Chicken Broth,,,
-testIngredients3:3,Fresh Dill,,,
-testIngredients3:4,Chicken Bits,,,
-testIngredients4:1,Scoop of Ice Cream,,,
-testIngredients4:2,Chocolate Sprinkles,,,
-testIngredients4:3,Whipped Cream,,,
-testIngredients4:4,Strawberries,,,
-adamIngredients1:1,Bread,3,4,
-adamIngredients1:2,Mayonnaise,2,3,
-adamIngredients1:3,Special Cheese Combo Mix™,2,3,
-adamIngredients1:4,Sundried Tomatoes,3,4,
+tutorialIngredients1:1,A Literal Pile of Breadsticks,,,
+tutorialIngredients1:5,Served,,,
+tutorialIngredients2:1,Bread,,,
+tutorialIngredients2:2,Butter,,,
+tutorialIngredients2:5,Served,,,
+tutorialIngredients3:1,Egg,,,
+tutorialIngredients3:2,Salt and Pepper,,,
+tutorialIngredients3:5,Served,,,
+tutorialIngredients4:1,A Literal Block of Chocolate,,,
+tutorialIngredients4:5,Served,,,
+tutorialFinal,Final,,,
+adamIngredients1:1,Bread,3,4,PaperSprite'/Game/Assets/Ingredients/adamIngredients_1_1'
+adamIngredients1:2,Mayonnaise,2,3,PaperSprite'/Game/Assets/Ingredients/adamIngredients_1_2'
+adamIngredients1:3,Special Cheese Combo Mix™,2,3,PaperSprite'/Game/Assets/Ingredients/adamIngredients_1_3'
+adamIngredients1:4,Sundried Tomatoes,3,4,PaperSprite'/Game/Assets/Ingredients/adamIngredients_1_4'
 adamIngredients1:5,Served,0,1,
-adamIngredients2:1,Macaroni,3,3,
-adamIngredients2:2,Cheddar Cheese,3,3,
-adamIngredients2:3,Bacon Bits,2,3,
-adamIngredients2:4,Breadcrumbs,2,3,
+adamIngredients2:1,Macaroni,3,3,PaperSprite'/Game/Assets/Ingredients/adamIngredients_2_1'
+adamIngredients2:2,Cheddar Cheese,3,3,PaperSprite'/Game/Assets/Ingredients/adamIngredients_2_2'
+adamIngredients2:3,Bacon Bits,2,3,PaperSprite'/Game/Assets/Ingredients/adamIngredients_2_3'
+adamIngredients2:4,Breadcrumbs,2,3,PaperSprite'/Game/Assets/Ingredients/adamIngredients_2_4'
 adamIngredients2:5,Served,0,1,
-adamIngredients3:1,Conchiglie Pasta,3,4,
-adamIngredients3:2,Tenderly-simmered Chicken Broth,3,4,
-adamIngredients3:3,Fresh Dill,4,5,
-adamIngredients3:4,Chicken Bits,2,3,
+adamIngredients3:1,Conchiglie Pasta,3,4,PaperSprite'/Game/Assets/Ingredients/adamIngredients_3_1'
+adamIngredients3:2,Tenderly-simmered Chicken Broth,3,4,PaperSprite'/Game/Assets/Ingredients/adamIngredients_3_2'
+adamIngredients3:3,Fresh Dill,4,5,PaperSprite'/Game/Assets/Ingredients/adamIngredients_3_3'
+adamIngredients3:4,Chicken Bits,2,3,PaperSprite'/Game/Assets/Ingredients/adamIngredients_3_4'
 adamIngredients3:5,Served,0,1,
-adamIngredients4:1,Scoop of B&J's Chocolate Chip Cookie Dough Chunks,4,4,
-adamIngredients4:2,Chocolate Sauce,2,3,
-adamIngredients4:3,Whipped Cream,2,3,
-adamIngredients4:4,Strawberries,2,3,
+adamIngredients4:1,Scoop of B&J's Chocolate Chip Cookie Dough Chunks,4,4,PaperSprite'/Game/Assets/Ingredients/adamIngredients_4_1'
+adamIngredients4:2,Chocolate Sauce,2,3,PaperSprite'/Game/Assets/Ingredients/adamIngredients_4_2'
+adamIngredients4:3,Whipped Cream,2,3,PaperSprite'/Game/Assets/Ingredients/adamIngredients_4_3'
+adamIngredients4:4,Strawberries,2,3,PaperSprite'/Game/Assets/Ingredients/adamIngredients_4_4'
 adamIngredients4:5,Served,0,1,
 adamIngredientsFinal,Final,0,1,
 xIngredients1:1,,,,

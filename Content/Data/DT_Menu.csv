@@ -1,16 +1,16 @@
 ---,CharacterID,Text,IngredientsBranch,DishIcon
-testMenu1,TestCharacter,Grilled Cheese Sandwich,testIngredients1,
-testMenu2,TestCharacter,Mac n Cheese,testIngredients2,
-testMenu3,TestCharacter,Mom's Chicken Noodle Soup,testIngredients3,
-testMenu4,TestCharacter,B&J's Chocolate Chip Cookie Dough Chunks,testIngredients4,
+tutorialMenu1,Tutorial,Breadsticks,tutorialIngredients1,
+tutorialMenu2,Tutorial,Toast,tutorialIngredients2,
+tutorialMenu3,Tutorial,Fried Egg,tutorialIngredients3,
+tutorialMenu4,Tutorial,Chocolate,tutorialIngredients4,
 doggoMenu1,Doggo,Doggo Food,doggoIngredients1,Texture2D'/Game/Assets/DogFoodFinal'
 doggoMenu2,Doggo,Test,doggoIngredients2,
 doggoMenu3,Doggo,Woof woof,doggoIngredients3,
 doggoMenu4,Doggo,Scritches pls,doggoIngredients4,
-adamMenu1,Adam,Grilled Cheese Sandwich,adamIngredients1,
-adamMenu2,Adam,Mac n Cheese,adamIngredients2,
-adamMenu3,Adam,Mom's Chicken Noodle Soup,adamIngredients3,
-adamMenu4,Adam,Ice Cream,adamIngredients4,
+adamMenu1,Adam,Grilled Cheese Sandwich,adamIngredients1,Texture2D'/Game/Assets/Menus/adamMenu1'
+adamMenu2,Adam,Mac n Cheese,adamIngredients2,Texture2D'/Game/Assets/Menus/adamMenu2'
+adamMenu3,Adam,Mom's Chicken Noodle Soup,adamIngredients3,Texture2D'/Game/Assets/Menus/adamMenu3'
+adamMenu4,Adam,Ice Cream,adamIngredients4,Texture2D'/Game/Assets/Menus/adamMenu4'
 xMenu1,X,undefined,xIngredients1,
 xMenu2,X,undefined,xIngredients2,
 xMenu3,X,undefined,xIngredients3,
