@@ -48,6 +48,9 @@
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
+# WAV Files
+*.wav
+
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
