@@ -153,7 +153,7 @@ tutorialBranch22,tutorialIngredients4:5,"[When you turn back to face the stickma
 tutorialBranch23,tutorialIngredientsFinal,"Oh my goodness, pardon my manners! I was so hungry this witching hour, I’d forgotten to explain why you’re even here in the first place. ",FALSE,tutorialBranch24,1
 tutorialBranch24,tutorialIngredientsFinal,"You’re working for me as of hmm.. five minutes ago, apparently! What do you do here? Well, if you haven’t caught on yet, you’re here to serve food to spooky ghosts. ",FALSE,tutorialBranch25,1
 tutorialBranch25,tutorialIngredientsFinal,"Nothing to worry about, absolutely harmless. Except that one guy that one time. But still! Only 100% harmless ghosts come to The Three Rivers.",FALSE,tutorialBranch26,1
-tutorialBranch26,tutorialIngredientsFinal,"Well, I’d love to talk more, but I’m afraid I am way too full now and I must take a nap immediately. Good luck and toodalooooooooooooooo~",TRUE,None,1
+tutorialBranch26,tutorialIngredientsFinal,"Well, I’d love to talk more, but I’m afraid I am way too full now and I must take a nap immediately. Good luck and toodalooOOoOooOooOOo~",TRUE,None,1
 xBranch1,xIngredientsFinal,You've reached the end of all the content in this demo.,FALSE,xBranch2,1
 xBranch2,xIngredientsFinal,"I'd love to have written up more characters but unfortunately, I lack the skill or time to do the art for every single ingredient and dish along with character portraits @.@",TRUE,None,1
 ianBranch1,ianIngredientsFinal,"This game was so fun (and also so stressful) to make, I'm so glad you played through to the end.",FALSE,ianBranch2,1
