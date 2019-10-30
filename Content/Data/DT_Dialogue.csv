@@ -112,7 +112,7 @@ adamBranch88,adamIngredients4:3,"She was making a pumpkin pie for Halloween one 
 adamBranch89,adamIngredients4:3,It felt like we’d spent the entire day just whisking cream.,TRUE,None,2
 adamBranch90,adamIngredients4:3,I would rather buy a can of whipped cream nowadays instead of working it by hand.,FALSE,adamBranch91,3
 adamBranch91,adamIngredients4:3,It’s just so much extra effort when I can just press a button and instantly have whipped cream in my mouth.,TRUE,None,3
-adamBranch92,adamIngredients4:4,"Everyone’s got their favorite dessert fruit. You can have your mangos, your bananas and your blueberries, but strawberries are mine.",FALSE,adamBranch93,1
+adamBranch92,adamIngredients4:4,"Everyone’s got their favorite dessert fruit. You can have your mangos, your bananas and your blueberries, but strawberries are mine.",TRUE,None,1
 adamBranch93,adamIngredients4:4,I’ve just always loved strawberries. I don’t ever remember a time I didn’t like them. ,TRUE,None,2
 adamBranch94,adamIngredients4:4,"Even the ones that are a little unripe - tart and not very sweet, are perfectly acceptable to me. ",FALSE,adamBranch95,3
 adamBranch95,adamIngredients4:4,I guess I’m just naturally inclined towards the taste of strawberries.,TRUE,None,3
@@ -155,7 +155,8 @@ tutorialBranch24,tutorialIngredientsFinal,"You’re working for me as of hmm.. f
 tutorialBranch25,tutorialIngredientsFinal,"Nothing to worry about, absolutely harmless. Except that one guy that one time. But still! Only 100% harmless ghosts come to The Three Rivers.",FALSE,tutorialBranch26,1
 tutorialBranch26,tutorialIngredientsFinal,"Well, I’d love to talk more, but I’m afraid I am way too full now and I must take a nap immediately. Good luck and toodalooOOoOooOooOOo~",TRUE,None,1
 xBranch1,xIngredientsFinal,You've reached the end of all the content in this demo.,FALSE,xBranch2,1
-xBranch2,xIngredientsFinal,"I'd love to have written up more characters but unfortunately, I lack the skill or time to do the art for every single ingredient and dish along with character portraits @.@",TRUE,None,1
+xBranch2,xIngredientsFinal,"I'd love to have written up more characters but unfortunately, I lack the skill or time to do the art for every single ingredient and dish along with character portraits @.@",FALSE,xBranch3,1
+xBranch3,xIngredientsFinal,I'm leaving these last two characters in because I didn't want my work to go to waste.,TRUE,None,1
 ianBranch1,ianIngredientsFinal,"This game was so fun (and also so stressful) to make, I'm so glad you played through to the end.",FALSE,ianBranch2,1
 ianBranch2,ianIngredientsFinal,Now roll the actual credits!,TRUE,None,1
 undefined,None,Error 42069: Dialogue not found sorry pls blame the dev he dumb,TRUE,None,0
