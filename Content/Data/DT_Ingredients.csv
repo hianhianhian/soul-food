@@ -18,10 +18,10 @@ doggoIngredients4:4,scritch behind ears,,,
 tutorialIngredients1:1,A Literal Pile of Breadsticks,3,3,PaperSprite'/Game/Assets/Ingredients/tutorialIngredients_1_1'
 tutorialIngredients1:5,Served,0,1,
 tutorialIngredients2:1,Bread,2,2,PaperSprite'/Game/Assets/Ingredients/tutorialIngredients_2_1'
-tutorialIngredients2:2,Butter,2,2,PaperSprite'/Game/Assets/Ingredients/tutorialIngredients_2_2'
+tutorialIngredients2:2,Butter,2,3,PaperSprite'/Game/Assets/Ingredients/tutorialIngredients_2_2'
 tutorialIngredients2:5,Served,0,1,
 tutorialIngredients3:1,Egg,2,2,PaperSprite'/Game/Assets/Ingredients/tutorialIngredients_3_1'
-tutorialIngredients3:2,Salt and Pepper,2,2,PaperSprite'/Game/Assets/Ingredients/tutorialIngredients_3_2'
+tutorialIngredients3:2,Salt and Pepper,2,3,PaperSprite'/Game/Assets/Ingredients/tutorialIngredients_3_2'
 tutorialIngredients3:5,Served,0,1,
 tutorialIngredients4:1,A Literal Block of Chocolate,2,2,PaperSprite'/Game/Assets/Ingredients/tutorialIngredients_4_1'
 tutorialIngredients4:5,Served,0,1,
