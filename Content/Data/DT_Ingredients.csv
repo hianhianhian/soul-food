@@ -28,7 +28,7 @@ tutorialIngredients4:5,Served,0,1,
 tutorialIngredientsFinal,Final,0,1,
 adamIngredients1:1,Bread,3,4,PaperSprite'/Game/Assets/Ingredients/adamIngredients_1_1'
 adamIngredients1:2,Mayonnaise,2,3,PaperSprite'/Game/Assets/Ingredients/adamIngredients_1_2'
-adamIngredients1:3,Special Cheese Combo Mix™,2,3,PaperSprite'/Game/Assets/Ingredients/adamIngredients_1_3'
+adamIngredients1:3,Special Cheese Combo Mix™,3,4,PaperSprite'/Game/Assets/Ingredients/adamIngredients_1_3'
 adamIngredients1:4,Sundried Tomatoes,3,4,PaperSprite'/Game/Assets/Ingredients/adamIngredients_1_4'
 adamIngredients1:5,Served,0,1,
 adamIngredients2:1,Macaroni,3,3,PaperSprite'/Game/Assets/Ingredients/adamIngredients_2_1'

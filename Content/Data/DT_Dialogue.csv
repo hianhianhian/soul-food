@@ -35,9 +35,9 @@ adamBranch11,adamIngredients1:2,"To this day, I still swear by swapping out the 
 adamBranch12,adamIngredients1:2,Although I won’t complain either way. A grilled cheese is a grilled cheese. You can’t mess it up.,TRUE,None,3
 adamBranch13,adamIngredients1:3,How did you figure out my all-time favourite Special Cheese Combo Mix™?,FALSE,adamBranch14,1
 adamBranch14,adamIngredients1:3,"3 slices of all-American processed cheese, fresh out of their little plastic packets.",TRUE,None,1
-adamBranch15,adamIngredients1:3,"You put one slice on each piece of bread. But wait, you say, there’s one more slice? Heh.",FALSE,adamBranch16,2
-adamBranch16,adamIngredients1:3,You tear up that last slice into strips to cover all the empty spaces of bread left.,TRUE,None,2
-adamBranch17,adamIngredients1:3,"If I was extra good that week, mom would even let me have a fourth slice.",TRUE,None,3
+adamBranch15,adamIngredients1:3,"You put one slice on each piece of bread. But wait, you say, there’s one more slice? Heh.",TRUE,None,2
+adamBranch16,adamIngredients1:3,You tear up that last slice into strips to cover all the empty spaces of bread left.,TRUE,None,3
+adamBranch17,adamIngredients1:3,"If I was extra good that week, mom would even let me have a fourth slice.",TRUE,None,4
 adamBranch18,adamIngredients1:4,This isn’t traditional by any means but I love sprinkling a few sundried tomatoes over the cheese. ,TRUE,None,1
 adamBranch19,adamIngredients1:4,"It’s not something that mom used to do, I just really appreciate the little bursts of concentrated tomato amidst all the gooey cheesiness.",TRUE,None,2
 adamBranch20,adamIngredients1:4,It took quite some convincing but mom finally conceded to trying it out when I got older.,FALSE,adamBranch21,3
