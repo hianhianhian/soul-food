@@ -13,8 +13,7 @@ jobs:
     name: Add Label
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: hianhianhian/add-labels@master
+      - uses: KeisukeYamashita/attach-labels@v1
         with:
           labels: unvalidated
         env:
