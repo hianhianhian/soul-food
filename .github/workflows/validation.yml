@@ -7,8 +7,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions-ecosystem/action-remove-labels@v1.3.0
-        if: ${{ startsWith(github.event.comment.body, 'Validated') }}
+        if: ${{ contains(github.event.comment.body, 'Validated') || contains(github.event.comment.body, 'validated') }}
         with:
           labels: unvalidated
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  add_label:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions-ecosystem/action-add-labels@v1.1.0
+        if: ${{ contains(github.event.comment.body, 'Validated') || contains(github.event.comment.body, 'validated') }}
+        with:
+          labels: validated
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
