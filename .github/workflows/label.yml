@@ -5,7 +5,8 @@
 name: Add Label
 on:
   issues:
-    types: [closed]
+    types: 
+      - closed
 
 jobs:
   add-label:
