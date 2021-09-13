@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: KeisukeYamashita/attach-labels@v1
-        if: ${{ contains(github.event.issue.title, 'Bug') || contains(github.event.comment.body, 'BUG') || contains(github.event.comment.body, 'bug') }}
+        if: ${{ contains(github.event.issue.title, 'Bug') || contains(github.event.issue.title, 'BUG') || contains(github.event.issue.title, 'bug') }}
         with:
           labels: unvalidated
         env:
