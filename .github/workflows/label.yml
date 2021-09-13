@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: hianhianhian/add-labels@main
+      - uses: hianhianhian/add-labels@v1.1.1
         with:
           labels: unvalidated
         env:
