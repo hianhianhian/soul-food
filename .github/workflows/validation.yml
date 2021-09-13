@@ -1,0 +1,14 @@
+name: Add or Remove Validation Label
+
+on: [issue_comment]
+
+jobs:
+  remove_label:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions-ecosystem/action-remove-labels@v1.3.0
+        if: ${{ startsWith(github.event.comment.body, 'Validated') }}
+        with:
+          labels: unvalidated
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
