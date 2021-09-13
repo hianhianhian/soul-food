@@ -15,7 +15,7 @@ jobs:
   add_label:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions-ecosystem/action-add-labels@v1.1.0
+      - uses: actions-ecosystem/action-add-labels@v1.1.13
         if: ${{ contains(github.event.comment.body, 'Validated') || contains(github.event.comment.body, 'validated') }}
         with:
           labels: validated
